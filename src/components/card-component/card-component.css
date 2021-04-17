@@ -1,0 +1,13 @@
+.card {
+    background-color: lightblue;
+    min-width: 300px;
+    max-width: 600px;
+    min-height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+    padding: 30px;
+    font-size: 25px;
+  }
