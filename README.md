@@ -1,6 +1,6 @@
 # Use-effect-example
 
-A small project helping us understand the new useEffect hook!
+A small project helping us understand the useEffect hook!
 
 # Getting Started with Create React App
 
